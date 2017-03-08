@@ -67,12 +67,12 @@
 			isa = PBXGroup;
 			children = (
 				7623CFCF1E6F520F004C5691 /* main.m */,
+				7623CFE51E6F61F8004C5691 /* ContactList.h */,
+				7623CFE61E6F61F8004C5691 /* ContactList.m */,
 				7623CFDF1E6F5692004C5691 /* InputCollector.h */,
 				7623CFE01E6F5692004C5691 /* InputCollector.m */,
 				7623CFE21E6F5EEC004C5691 /* Contact.h */,
 				7623CFE31E6F5EEC004C5691 /* Contact.m */,
-				7623CFE51E6F61F8004C5691 /* ContactList.h */,
-				7623CFE61E6F61F8004C5691 /* ContactList.m */,
 			);
 			path = "Contact List";
 			sourceTree = "<group>";

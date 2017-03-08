@@ -10,9 +10,11 @@
 
 @interface Contact : NSObject
 
-@property NSString *name;
+@property NSString *named;
 @property NSString *email;
+@property NSMutableArray *phoneNumbers;
 
+-(void)decideToEnterNewNumber:(NSString *)decision;
 
 
 @end

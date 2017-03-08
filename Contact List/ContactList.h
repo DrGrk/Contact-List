@@ -17,4 +17,10 @@
 
 -(void)outputNames;
 
+-(void)showNameAtIndex:(NSString *)indexString;
+
+-(void)filterForName:(NSString *)findMe;
+
+-(BOOL)doubleEntryBlocker:(NSString *)emailEntered;
+
 @end
